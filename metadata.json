@@ -1,0 +1,6 @@
+{
+  "name": "Internet Speed Monitor",
+  "description": "Real-time Internet Speed Monitor and 5G Tower Tracking Android Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
